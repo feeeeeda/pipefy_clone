@@ -34,6 +34,7 @@ export const Container = styled.div`
     background: transparent;
     box-shadow: none;
     cursor: grabbing;
+    
     p, img, header {
       opacity: 0;
     }
